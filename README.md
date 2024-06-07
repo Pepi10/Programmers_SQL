@@ -12,13 +12,5 @@
   * [X] JOIN
   * [ ] STRING, DATE
 
-### 2. ORACLE
-  * [ ] SELECT
-  * [ ] SUM, MAX, MIN
-  * [ ] GROUP BY
-  * [ ] IS NULL
-  * [ ] JOIN
-  * [ ] STRING, DATE
-
 
 > FILE NAME = 문제번호-난이도
